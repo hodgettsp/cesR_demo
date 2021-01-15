@@ -1,2 +1,2 @@
 # cesR_demo
-An R Markdown containing a demo of the cesR functions
+R script file containing a demo of the installation of cesR as well as the use of each function.
